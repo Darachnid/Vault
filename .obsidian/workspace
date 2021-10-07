@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "629b1d5508bf26ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c97586c1e09479",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6407b5207fafd85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aa69b8c6afad90e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56fcd8372d4898f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec7d5d28d256a146",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5c9a40e9c2399e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19cfa0dd495ec0be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c82cbfcdfe0bc3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea945b684a77b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e2acbfeab32d3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58c97586c1e09479",
+  "lastOpenFiles": [
+    "inbox/Untitled.md",
+    "Literature Notes/A system dynamics model examining alternative wildfire responses policies.md",
+    "Permanent Notes/Wildfires Displace Vulnerable Populations.md",
+    "inbox/LANDFIRE.md",
+    "Fleeting Notes/Systems Thinking and Wildland Fire Management.md",
+    "Fleeting Notes/How to Take Smart Notes.md",
+    "Fleeting Notes/A system dynamics model examining alternative wildfire responses policies.md",
+    "Templates/Literature Notes.md",
+    "Media/Pasted image 20211005230017.png",
+    "Media/Pasted image 20211005230016.png"
+  ]
+}
